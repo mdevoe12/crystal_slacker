@@ -1,5 +1,6 @@
 # crystal_slacker
 
+App is currently hosted on Heroku at: https://crystalslacker.herokuapp.com/
 TODO: Write a description here
 
 ## Installation
