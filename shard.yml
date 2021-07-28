@@ -1,0 +1,17 @@
+name: crystal_slacker
+version: 0.1.0
+
+authors:
+  - Matt DeVoe <matthew.devoe@hotelengine.com>
+
+targets:
+  crystal_slacker:
+    main: src/crystal_slacker.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+crystal: 1.0.0
+
+license: MIT
