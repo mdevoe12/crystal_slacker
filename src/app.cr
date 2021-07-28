@@ -5,7 +5,7 @@ module CrystalSlacker
   VERSION = "0.1.0"
 
   get "/" do
-    "Hello World"
+    render "src/views/root.ecr"
   end
 
   Kemal.run
